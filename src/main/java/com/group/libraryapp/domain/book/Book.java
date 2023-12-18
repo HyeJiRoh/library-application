@@ -1,6 +1,8 @@
 package com.group.libraryapp.domain.book;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
+
+import jakarta.persistence.*;
 
 @Entity
 public class Book {
